@@ -1,0 +1,25 @@
+.faq-bg {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 5%;
+  min-height: 100vh;
+  background-position: center;
+  background-color: #f1f5f8;
+}
+.header {
+  font-size: 50px;
+  color: #cb8805;
+  padding-top: 50px;
+}
+.faq-con {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 20px;
+  background-position: center;
+}
